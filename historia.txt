@@ -1,1 +1,2 @@
 Esta es mi historia, asi es como inicies en git
+Cambie esto un poco
